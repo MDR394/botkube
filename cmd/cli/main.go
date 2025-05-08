@@ -3,7 +3,6 @@ package main
 import (
 	"context"
 	"os"
-
 	"sigs.k8s.io/controller-runtime/pkg/manager/signals"
 
 	"github.com/kubeshop/botkube/cmd/cli/cmd"
